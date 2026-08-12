@@ -54,13 +54,9 @@ After training, prepare the trained model in ONNX format for use on the NVIDIA J
 4. Run the Classification System
 Make sure the trained model and labels file are in the correct directories.
 
-Run:
-
-python3 run_waste.py
+Run: python3 run_waste.py
 
 5. Open the Web Interface
-Find the IP address of the NVIDIA Jetson Orin Nano.
-
 Open the following address in a web browser:
 
 http://<Jetson-IP-address>:8554
