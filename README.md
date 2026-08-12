@@ -39,7 +39,7 @@ The trained model is converted to ONNX format and used for inference on the NVID
 ## Running this project
 
 1. Download the Dataset
-Download the "Recyclable and Household Waste Classification" dataset from Kaggle.
+Download the "Recyclable and Household Waste Classification" dataset from Kaggle. (https://www.kaggle.com/datasets/alistairking/recyclable-and-household-waste-classification/data)
 
 Unzip the downloaded dataset.
 
