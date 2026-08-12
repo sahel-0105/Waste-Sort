@@ -1,6 +1,8 @@
 # WASTE SORT
 
- Add short description of project here > 
+ Add short description of project here > This project is an AI-powered waste classification system that identifies different types of waste in real time using a camera.
+
+The system displays the waste type, prediction confidence, and disposal instructions. It runs on an NVIDIA Jetson Orin Nano and provides a web interface for viewing the results in real time.
 
 ![add image descrition here](direct image link here)
 
