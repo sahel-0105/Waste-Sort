@@ -1,4 +1,4 @@
-# Project Name
+# WASTE SORT
 
  Add short description of project here > 
 
