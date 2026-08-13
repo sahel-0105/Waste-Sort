@@ -62,3 +62,6 @@ Open the following address in a web browser:
 http://<Jetson-IP-address>:8554
 
 The camera feed, waste classification, confidence score, and disposal instructions will be displayed in real time.
+
+## Screenshots
+![IMG_0226](https://github.com/user-attachments/assets/650cd62a-fbe8-4631-8133-b1379ca8620b) ![IMG_0225](https://github.com/user-attachments/assets/154f980e-9ade-41bb-a972-9a047c43fa96)
